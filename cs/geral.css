@@ -1,6 +1,24 @@
-#topo h1{
-    border: 2px solid red;
+ h1{
+    margin-top: 20px;
     text-align: center;
     margin-left: 50px;
    
+}
+p{
+    text-align: center;
+}
+.progress{    
+    margin-left: 490px;   
+    height: 2px;
+    width: 300px;   
+}
+a {   
+    text-decoration: none;
+    text-transform: uppercase;
+    color: aquamarine;   
+}
+#rodape{
+    background-color: black;
+    text-align:center ;    
+    margin-top: 520px;
 }
